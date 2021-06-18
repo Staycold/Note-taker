@@ -41,7 +41,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 <a href="https://github.com/Staycold/Note-taker" target= "_blank">https://github.com/Staycold/Note-taker</a>
 
-<a href="https://note-taker-staycold.herokuapp.com/ " target= "_blank">https://note-taker-staycold.herokuapp.com/ </a>
+<a href="https://note-taker-staycold.herokuapp.com/" target= "_blank">https://note-taker-staycold.herokuapp.com/ </a>
 
  
 
