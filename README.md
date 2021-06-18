@@ -31,17 +31,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## NPMs used:
 
 <ul>
-<li><a href="https://www.npmjs.com/package/uuid" target="_blank">UUID </a> </li>
-<li><a href="https://www.npmjs.com/package/express" target="_blank">Express</a></li>
-<li><a href="https://www.npmjs.com/package/file-system" target="_blank">File System</a></li>
+<li><a href="https://www.npmjs.com/package/uuid" target= "_blank">UUID </a> </li>
+<li><a href="https://www.npmjs.com/package/express" target= "_blank">Express</a></li>
+<li><a href="https://www.npmjs.com/package/file-system" target= "_blank">File System</a></li>
 </ul>
 
 
 # Links:
 
-<a href="https://github.com/Staycold/Note-taker" target="_blank">https://github.com/Staycold/Note-taker</a>
+<a href="https://github.com/Staycold/Note-taker" target= "_blank">https://github.com/Staycold/Note-taker</a>
 
-<a href="https://note-taker-staycold.herokuapp.com/ " target="_blank">https://note-taker-staycold.herokuapp.com/ </a>
+<a href="https://note-taker-staycold.herokuapp.com/ " target= "_blank">https://note-taker-staycold.herokuapp.com/ </a>
 
  
 
